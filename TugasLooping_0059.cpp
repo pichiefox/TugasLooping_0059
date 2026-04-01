@@ -68,3 +68,5 @@ int main() {
     while (true) {
         menu();
 
+        switch (pilihan) {
+            
