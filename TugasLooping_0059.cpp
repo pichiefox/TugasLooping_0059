@@ -56,4 +56,8 @@ void outputFibonacci() {
 // Function menu
 void menu() {
     cout << "\n==== Cek Bilangan ====\n";
+    cout << "1. Cek Bilangan Prima\n";
+    cout << "2. Cek Bilangan Fibonacci\n";
+    cout << "0. Keluar\n";
+    cout << "Pilih menu: ";
 }
