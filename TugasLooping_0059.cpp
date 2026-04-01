@@ -39,3 +39,7 @@ void input() {
 }
 
 // Prosedur output hasil
+void outputPrima() {
+    if (bilPrima(n))
+        cout << n << " adalah bilangan prima\n";
+    
