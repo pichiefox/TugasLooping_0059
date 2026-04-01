@@ -18,3 +18,17 @@ bool bilPrima(int n) {
     return true;
 }
 
+// Function untuk cek bilangan Fibonacci
+bool bilFibonacci(int n) {
+    int a = 0, b = 1, c = 0;
+
+    while (c < n) {
+        c = a + b;
+        a = b;
+        b = c;
+    }
+
+    if (c == n || n == 0) return true;
+    return false;
+}
+
