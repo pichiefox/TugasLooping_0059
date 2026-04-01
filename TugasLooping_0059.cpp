@@ -32,3 +32,8 @@ bool bilFibonacci(int n) {
     return false;
 }
 
+// Prosedur input
+void input() {
+    cout << "Masukkan angka: ";
+    cin >> n;
+}
