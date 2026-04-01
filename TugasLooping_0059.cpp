@@ -37,3 +37,5 @@ void input() {
     cout << "Masukkan angka: ";
     cin >> n;
 }
+
+// Prosedur output hasil
