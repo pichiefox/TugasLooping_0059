@@ -53,3 +53,4 @@ void outputFibonacci() {
         cout << n << " bukan bilangan Fibonacci\n";
 }
 
+// Function menu
