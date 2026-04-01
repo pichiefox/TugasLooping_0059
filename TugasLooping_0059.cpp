@@ -54,3 +54,6 @@ void outputFibonacci() {
 }
 
 // Function menu
+void menu() {
+    cout << "\n==== Cek Bilangan ====\n";
+}
